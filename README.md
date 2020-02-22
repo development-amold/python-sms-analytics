@@ -1,6 +1,6 @@
-#Python-OTP-SMS-Analytics
+# Python-OTP-SMS-Analytics
 
-* Steps for installation:
+* Steps for installation: <br />
 `pip install pipenv`
 
 `pipenv --python 3.6`  #checkout to python version 3.6
