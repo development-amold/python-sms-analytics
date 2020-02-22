@@ -1,0 +1,24 @@
+{% extends "layout.html" %}
+{% block title %}List{% endblock %}
+
+{% block content %}
+  <div class="table-responsive">
+    <caption><h3>List of OTP</h3></caption>
+    <table class="table">
+      <thead>
+        <tr>
+          <th scope="col">DateTime</th>
+          <th scope="col">OTP</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for otpObject in otplist %}
+          <tr>
+            <td>{{otpObject['created_at'].strftime("%d %B %Y %H:%M:%S")}}</td>
+            <td>{{otpObject['otp_token']}}</td>
+          </tr>
+        {% endfor %}  
+      </tbody>
+    </table>
+  </div>
+{% endblock %}
