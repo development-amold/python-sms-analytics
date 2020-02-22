@@ -8,6 +8,6 @@
 
 * `pipenv install`   #Install all packages from Pipenv file
 
-* `*pipenv shell`   #activate virtual env
+* `pipenv shell`   #activate virtual env
 
 * `pipenv run python run.py`  #run app which loads .env file and loads ENV variable
