@@ -11,6 +11,7 @@ pymongo = "*"
 flask-pymongo = "*"
 python-dotenv = "*"
 flask-cors = "*"
+gunicorn = "*"
 
 [requires]
 python_version = "3.6"
