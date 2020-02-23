@@ -1,1 +1,1 @@
-web: python run.py
+web: gunicorn FLASK_ENV=production python run.py
