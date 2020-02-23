@@ -7,7 +7,7 @@ app = Flask('sms-analytics')
 app.secret_key = "gp73LzuvRM"
 
 if app.config["ENV"] == "production":
-  app.config["MONGO_URI"] = ENV['MONGODB_URI']
+  app.config["MONGO_URI"] = 'mongodb://heroku_v20fnn1p:eelp5v7uqn2v0gl6e5d4uvcf9u@ds217548.mlab.com:17548/heroku_v20fnn1p' #ENV['MONGODB_URI']
   logging.basicConfig(filename='log/production.log',level=logging.INFO)
 else:
   logging.basicConfig(filename='log/development.log',level=logging.DEBUG)
