@@ -1,0 +1,1278 @@
+DEBUG:root:-----------APP-production---
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:-----------APP-development---
+DEBUG:root:-----------APP-production---
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:-----------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:10:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:10:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:11:03] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-production---
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:11:39] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:12:29] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:12:46] "[33mGET /api/optList HTTP/1.1[0m" 404 -
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---ENV--------APP-development---
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:16:14] "[33mGET /api/optList HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:16:21] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:19:34] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:19:42] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:20:09] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:20:45] "[37mPOST /api/otp_add HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:21:10] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:27:54] "[33mPOST /api/add_otp HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:28:35] "[33mPOST /api/add_otp HTTP/1.1[0m" 404 -
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:36:43] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:37:50] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:38:47] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:42:23] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:42:39] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:47:04] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:47:14] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:48:02] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:48:07] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:48:13] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:50:25] "[31m[1mPOST /api/add_otp HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:50:38] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:51:21] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:52:10] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:52:19] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:52:31] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:54:31] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:54:48] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:55:17] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:55:29] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:55:49] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:57:51] "[35m[1mPOST /api/add_otp HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:58:55] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:59:27] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 17:59:47] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 18:00:14] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 18:00:34] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 18:02:35] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 18:02:41] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 18:03:07] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:04:57] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:05:05] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:08:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:08:45] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:09:02] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:11:21] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:11:47] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:24:04] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:24:04] "[37mGET /style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:45:15] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:50:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:50:30] "[37mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:58:32] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:58:36] "[37mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:58:45] "[37mGET /static/js/popper.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:58:50] "[37mGET /static/js/bootstrap.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 19:59:05] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:10:03] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:10:56] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:11:20] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:14:16] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:14:31] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:15:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:44:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:35] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:48] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:49] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:46:58] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:47:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:48:52] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:48:58] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:03] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:25] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:29] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:29] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:49:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:50:56] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:16] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:52:50] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:05] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:13] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:25] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:49] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:51] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:53:56] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:54:02] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 20:54:14] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:11:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:12:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:13:05] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:16:03] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:16:45] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:17:14] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:20] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:18:40] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:20:20] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:20:35] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:21:11] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:21:19] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:06] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:07] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:08] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:08] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:08] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:08] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:22:48] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:23:09] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:23:26] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:23:29] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:31] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:33] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:33] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:34] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:34] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:58] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:59] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:59] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:24:59] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:10] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:12] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:12] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:12] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:13] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:13] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:39] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:40] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:40] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:40] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:59] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:25:59] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:03] "[37mGET /otpList HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:26:35] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:07] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:09] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:17] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:18] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:27:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:27] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:27] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:27] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:34] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:35] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:35] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:28:35] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:29:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:29:18] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:29:18] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:29:18] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:30] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:37] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:37] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:37] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:31:37] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:06] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:06] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:06] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:06] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:07] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:07] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:07] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:07] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:08] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:08] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:08] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:08] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:16] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:16] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:16] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:16] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:17] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:17] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:17] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:17] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:18] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:18] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:18] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:50] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:50] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:50] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:33:50] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:18] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:18] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:18] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:32] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:32] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:32] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:32] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:42] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:42] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:42] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:42] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:43] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:43] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:43] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:43] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:53] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:53] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:53] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:34:53] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:19] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:19] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:19] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:19] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:35] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:35] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:35] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:35] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:36] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:36] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:36] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:35:36] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:37:42] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:37:43] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:37:43] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:37:43] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:30] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:30] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:30] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:30] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:47] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:48] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:48] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:38:48] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:07] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:07] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:07] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:07] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:25] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:26] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:26] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:26] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:36] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:36] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:36] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:36] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:50] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:50] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:50] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:39:50] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:00] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:01] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:01] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:01] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:43] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:43] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:43] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:43] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:51] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:51] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:51] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:51] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:52] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:52] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:52] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:52] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:53] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:53] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:53] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:53] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:54] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:54] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:54] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:40:54] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+DEBUG:root:---------------------
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:41:01] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:41:01] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:41:01] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:41:01] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:10] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:31] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:52:32] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:53:53] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:07] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:07] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:07] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:07] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:18] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:18] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:18] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:18] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:54:23] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+DEBUG:root:-------EXCEPTION---("name 'OTP_TABLE' is not defined",)---
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:55:51] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:16] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:21] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:22] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:22] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:22] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:30] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:34] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:38] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:40] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:40] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:40] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:40] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:56] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:56] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:56] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:57:56] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:21] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:22] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:22] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:58:22] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:11] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:11] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:11] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:11] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:12] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:12] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 21:59:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:36:46] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:00] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:00] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:00] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:00] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:01] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:56:01] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:13] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:24] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:24] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:24] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:24] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:25] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:39] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:39] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Feb/2020 23:58:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:00:48] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:00:48] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:00:48] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:00:48] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:26] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:26] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:26] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:26] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:41] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:42] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:42] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:01:42] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:02:26] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:02:26] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:02:26] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:02:27] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:32] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:33] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:33] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:33] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:36] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:36] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:36] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:36] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:42] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:42] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:43] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:03:43] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:02] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:05] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:05] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:05] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:05] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:28] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:32] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:32] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:32] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:04:32] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:08:58] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:14] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:14] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:14] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:14] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:15] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:09:21] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:10:12] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:10:12] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:10:12] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:10:12] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:18] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:19] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:19] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:19] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:19] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:19] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:12:40] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:30] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:30] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:31] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:44] "[35m[1mGET /otpList HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:45] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:45] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:45] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:45] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:16:45] "[37mGET /otpList?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:26] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:26] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:26] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:26] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:31] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:32] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:32] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:32] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:44] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:44] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:44] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:44] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:57] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:57] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:57] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:17:57] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:23] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:23] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:23] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:23] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:27] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:28] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:28] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:28] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:48] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:51] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:51] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:51] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:19:51] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:21] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:23] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:23] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:23] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:23] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:20:43] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:21:42] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:21:42] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:21:42] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:21:42] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:08] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:14] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:14] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:14] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:14] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:23] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:23] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:23] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:23] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:31] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:32] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:32] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:32] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:36] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:36] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:36] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:36] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:41] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:42] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:42] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:22:42] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:23:16] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:23:37] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:23:38] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:23:38] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:23:38] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:24:06] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:19] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:20] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:20] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:20] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:40] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:41] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:41] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:25:41] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:30:04] "[37mGET /otpList HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:30:10] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:30:13] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 00:30:17] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:29] "[37mPOST /api/add_otp HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[36mGET /static/css/bootstrap.min.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[36mGET /static/js/jquery-3.2.1.min.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[36mGET /static/js/popper.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[36mGET /static/js/bootstrap.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:44] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:45] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:00:45] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:02:01] "[37mGET / HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:02:01] "[37mGET /static/css/bootstrap.min.css.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:02:01] "[37mGET /static/js/popper.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug:127.0.0.1 - - [23/Feb/2020 17:02:01] "[37mGET /static/js/bootstrap.min.js.map HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
