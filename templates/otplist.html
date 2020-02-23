@@ -14,7 +14,7 @@
       <tbody>
         {% for otpObject in otplist %}
           <tr>
-            <td>{{otpObject['created_at'].strftime("%d %B %Y %H:%M:%S")}}</td>
+            <td>{{otpObject['created_at'].strftime("%d %B %Y @ %H:%M:%S")}}</td>
             <td>{{otpObject['otp_token']}}</td>
           </tr>
         {% endfor %}  
