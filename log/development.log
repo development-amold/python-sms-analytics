@@ -1339,3 +1339,11 @@ INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
+INFO:werkzeug: * Detected change in '/home/crystal/myapps/python_apps/python-sms-analytics/run.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 163-572-251
